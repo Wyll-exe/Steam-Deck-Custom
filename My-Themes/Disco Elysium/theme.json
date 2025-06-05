@@ -1,0 +1,12 @@
+{
+    "name": "Disco Parabellum",
+    "author": "Wyll'",
+    "version": "v0.553",
+    "description": "Disco days are back",
+    "target": "Home, Library, Settings, Lock Screen, Background, Downloads, Media",
+    "manifest_version": 8,
+    "inject": {
+        "shared.css": []
+    }
+}
+

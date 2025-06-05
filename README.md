@@ -1,6 +1,11 @@
 custom theme steam deck
 css loader
 
+### Guide Lines 
+
+1. [link-1](https://docs.deckthemes.com/CSSLoader/theming_step_by_step/#desktop-themes)
+2. [link-2]( )
+
 ## Installation
 
 1. Install the [Steam Deck plugin loader](https://github.com/SteamDeckHomebrew/decky-loader). The pre-release is recommended at the time of this guide being written.
@@ -21,13 +26,9 @@ css loader
 1. Open the CSS Loader plugin.
 1. Enable your installed theme(s).
 
-## My themes 
+## My-themes 
 
 ### Disco Elysium
-
-### Persona 4
-
-### Persona 3
 
 ### Kingdom Hearts
 
